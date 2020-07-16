@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/efleta/Desktop/printf_sraniy/includes/ft_printf.h
+stdio.h
+-
+stdarg.h
+-
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+float.h
+-
+../libft/libft.h
+/Users/efleta/Desktop/printf_sraniy/libft/libft.h
+
+/Users/efleta/Desktop/printf_sraniy/libft/libft.h
+string.h
+-
+
+/Users/efleta/Desktop/printf_sraniy/srcs/ft_printf.c
+../includes/ft_printf.h
+/Users/efleta/Desktop/printf_sraniy/includes/ft_printf.h
+
